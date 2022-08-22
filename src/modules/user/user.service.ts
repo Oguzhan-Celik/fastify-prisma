@@ -1,4 +1,3 @@
-import { assert } from "console";
 import { hashPassword } from "../../utils/hash";
 import prisma from "../../utils/prisma";
 import { CreateUserInput } from "./user.schema";
